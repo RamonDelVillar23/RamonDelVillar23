@@ -1,6 +1,10 @@
 <h1 align="center">Hola 👋, Yo soy Ramón Del Villar</h1>
 <h3 align="center">Técnico en Diseño y Desarrollo de Aplicaciones</h3>
 
+- 🔭 Actualmente buscando **trabajo**
+
+- 📫 Escribeme a **ramondelvillar2000@gmail.com**
+
 <h3 align="left">Contacte Conmigo Por:</h3>
 <p align="left">
 <a href="https://do.linkedin.com/in/ram%C3%B3n-antonio-del-villar-pe%C3%B1a-7a1b03231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramón antonio del villar peña" height="30" width="40" /></a>
